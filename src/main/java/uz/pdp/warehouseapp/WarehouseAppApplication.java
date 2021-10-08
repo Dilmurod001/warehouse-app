@@ -8,6 +8,8 @@ public class WarehouseAppApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(WarehouseAppApplication.class, args);
+
+        System.out.println("Dastur ishga tushdi !!!");
     }
 
 }
